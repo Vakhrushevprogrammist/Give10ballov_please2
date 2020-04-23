@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1587541111 source:d:\codeblock\лаб 3\circle.cpp
+	"Circle.h"
+
+1587539107 d:\codeblock\лаб 3\circle.h
+	"Figure.h"
+
+1587540971 d:\codeblock\лаб 3\figure.h
+	<iostream>
+	<windows.h>
+	<string>
+	"Point.h"
+
+1587474542 d:\codeblock\лаб 3\point.h
+
+1587541209 source:d:\codeblock\лаб 3\figure.cpp
+	"Figure.h"
+
+1587474545 source:d:\codeblock\лаб 3\point.cpp
+	"Point.h"
+
+1587540494 source:d:\codeblock\лаб 3\triangle.cpp
+	"Triangle.h"
+
+1587540402 d:\codeblock\лаб 3\triangle.h
+	<cmath>
+	"Figure.h"
+
+1587538398 source:d:\codeblock\лаб 3\_rectangle.cpp
+	"_Rectangle.h"
+
+1587539108 d:\codeblock\лаб 3\_rectangle.h
+	"Figure.h"
+
+1587545399 source:d:\codeblock\лаб 3\main.cpp
+	"Figure.h"
+	"_Rectangle.h"
+	"Triangle.h"
+	"Circle.h"
+	"Point.h"
+
+1587667268 source:d:\codeblock\kgfsg\circle.cpp
+	"Circle.h"
+
+1587667260 d:\codeblock\kgfsg\circle.h
+	"Figure.h"
+
+1587666709 d:\codeblock\kgfsg\figure.h
+	<iostream>
+	<windows.h>
+	<string>
+
+1587474542 d:\codeblock\kgfsg\point.h
+
+1587666709 source:d:\codeblock\kgfsg\figure.cpp
+	"Figure.h"
+
+1587667450 source:d:\codeblock\kgfsg\main.cpp
+	"Figure.h"
+	"_Rectangle.h"
+	"Triangle.h"
+	"Circle.h"
+	"Point.h"
+
+1587667208 d:\codeblock\kgfsg\_rectangle.h
+	"Figure.h"
+
+1587667428 d:\codeblock\kgfsg\triangle.h
+	<cmath>
+	"Figure.h"
+
+1587474545 source:d:\codeblock\kgfsg\point.cpp
+	"Point.h"
+
+1587667906 source:d:\codeblock\kgfsg\triangle.cpp
+	"Triangle.h"
+
+1587667906 source:d:\codeblock\kgfsg\_rectangle.cpp
+	"_Rectangle.h"
+
+1587667906 source:c:\users\king\desktop\kgfsg\_rectangle.cpp
+	"_Rectangle.h"
+
+1587667208 c:\users\king\desktop\kgfsg\_rectangle.h
+	"Figure.h"
+
+1587666709 c:\users\king\desktop\kgfsg\figure.h
+	<iostream>
+	<windows.h>
+	<string>
+
+1587667268 source:c:\users\king\desktop\kgfsg\circle.cpp
+	"Circle.h"
+
+1587667260 c:\users\king\desktop\kgfsg\circle.h
+	"Figure.h"
+
+1587666709 source:c:\users\king\desktop\kgfsg\figure.cpp
+	"Figure.h"
+
+1587667450 source:c:\users\king\desktop\kgfsg\main.cpp
+	"Figure.h"
+	"_Rectangle.h"
+	"Triangle.h"
+	"Circle.h"
+	"Point.h"
+
+1587667428 c:\users\king\desktop\kgfsg\triangle.h
+	<cmath>
+	"Figure.h"
+
+1587474542 c:\users\king\desktop\kgfsg\point.h
+
+1587667906 source:c:\users\king\desktop\kgfsg\triangle.cpp
+	"Triangle.h"
+
